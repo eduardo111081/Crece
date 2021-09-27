@@ -1,0 +1,9 @@
+body {
+    background-color: thistle;
+    background-image: url(fondo.jpg);   
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 800px; 
+}
